@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/project-03-smart-poll-app-react-stack-learner/static/css/main.cbc512fe.css",
+    "main.js": "/project-03-smart-poll-app-react-stack-learner/static/js/main.7e34193b.js",
+    "static/js/453.a2cb55ad.chunk.js": "/project-03-smart-poll-app-react-stack-learner/static/js/453.a2cb55ad.chunk.js",
+    "index.html": "/project-03-smart-poll-app-react-stack-learner/index.html",
+    "main.cbc512fe.css.map": "/project-03-smart-poll-app-react-stack-learner/static/css/main.cbc512fe.css.map",
+    "main.7e34193b.js.map": "/project-03-smart-poll-app-react-stack-learner/static/js/main.7e34193b.js.map",
+    "453.a2cb55ad.chunk.js.map": "/project-03-smart-poll-app-react-stack-learner/static/js/453.a2cb55ad.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cbc512fe.css",
+    "static/js/main.7e34193b.js"
+  ]
+}
